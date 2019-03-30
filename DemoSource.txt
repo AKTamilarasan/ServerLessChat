@@ -1,0 +1,5 @@
+https://azure.microsoft.com/en-in/resources/samples/functions-serverless-chat-app-tutorial/
+
+https://github.com/Azure-Samples
+
+https://github.com/Azure-Samples/functions-serverless-chat-app-tutorial/blob/master/lab-instructions.md
