@@ -3,3 +3,6 @@ https://azure.microsoft.com/en-in/resources/samples/functions-serverless-chat-ap
 https://github.com/Azure-Samples
 
 https://github.com/Azure-Samples/functions-serverless-chat-app-tutorial/blob/master/lab-instructions.md
+
+
+https://anthonychu.ca/post/cosmosdb-real-time-azure-functions-signalr-service/

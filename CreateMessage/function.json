@@ -1,6 +1,5 @@
 {
-  "bindings": [
-    {
+  "bindings": [{
       "authLevel": "anonymous",
       "type": "httpTrigger",
       "direction": "in",
@@ -20,9 +19,15 @@
       "type": "cosmosDB",
       "databaseName": "chat",
       "collectionName": "messages",
-      "createIfNotExists": true, 
+      "createIfNotExists": true,
       "connectionStringSetting": "CosmosDBConnectionString",
       "direction": "out"
-  }
+    },
+    {
+      "type": "signalR",
+      "name": "signalRMessages",
+      "hubName": "chat",
+      "direction": "out"
+    }
   ]
 }
